@@ -45,16 +45,16 @@
 ## 📊 GitHub Statistics
 
 ### 📈 Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vakover&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladimirKozulin&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vakover&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VladimirKozulin&theme=radical)](https://git.io/streak-stats)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vakover&layout=compact&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirKozulin&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 ### 📊 Activity Graph
-[![Vladimir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vakover&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vladimir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VladimirKozulin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vakover&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VladimirKozulin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
