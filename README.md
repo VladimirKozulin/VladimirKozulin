@@ -3,7 +3,7 @@
 ## 📌 About me
 - 🎓 23-year-old java backend developer
 - 🌱 Seeking new knowledge and experience
-- 📫 Contact me: vladimir.kozulin.18@yandex.ru or @vakover
+- 📫 Contact me: vladimir.kozulin.18@yandex.ru
 
 ## 🖥 Technology Stack
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -41,20 +41,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40vakover-blue?style=for-the-badge&logo=telegram)](https://t.me/vakover)
 [![VK](https://img.shields.io/badge/VK-%40overlord16-9cf?style=for-the-badge&logo=vk)](https://vk.com/overlord16)
 [![Hh](https://img.shields.io/badge/Resume-de0707?style=for-the-badge)](https://spb.hh.ru/resume/3e717748ff0d3ea7ea0039ed1f7639457a375a)
-
-## 📊 GitHub Statistics
-
-### 📈 Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladimirKozulin&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VladimirKozulin&theme=radical)](https://git.io/streak-stats)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirKozulin&layout=compact&theme=radical&include_all_commits=true&count_private=true)
-
-### 📊 Activity Graph
-[![Vladimir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VladimirKozulin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VladimirKozulin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
