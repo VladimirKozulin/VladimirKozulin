@@ -1,9 +1,8 @@
 # Hello, I'm Vladimir 👋
 
 ## 📌 About me
-- 🎓 22-year-old java backend developer
+- 🎓 23-year-old java backend developer
 - 🌱 Seeking new knowledge and experience
-- 💼 Currently working on yandex and studying at college
 - 📫 Contact me: vladimir.kozulin.18@yandex.ru or @vakover
 
 ## 🖥 Technology Stack
