@@ -43,5 +43,4 @@
 [![VK](https://img.shields.io/badge/VK-%40overlord16-9cf?style=for-the-badge&logo=vk)](https://vk.com/overlord16)
 [![Hh](https://img.shields.io/badge/Resume-de0707?style=for-the-badge)](https://spb.hh.ru/resume/3e717748ff0d3ea7ea0039ed1f7639457a375a)
 
-![Stats](https://statistic-github-ifjr.vercel.app/api?username=yourusername&count_private=true)
 
