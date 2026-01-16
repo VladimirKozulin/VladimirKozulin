@@ -12,7 +12,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-E34F26?style=for-the-badge&logoColor=white)](https://kafka.apache.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![GitLab](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=while)](https://github.com/)
 [![GitHub](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-57698c?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
