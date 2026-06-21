@@ -2,7 +2,7 @@
 
 ## 📌 About me
 - Пиши код так, будто сопровождать его будет склонный к насилию психопат, который знает, где ты живешь
-- https://gitverse.ru/vladimir.kozulin.18
+- www.linkedin.com/in/vladimir-k-9ab941389
 
 ## 🖥 Technology Stack
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -22,10 +22,4 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-
-## 🖼 Contacts
-[![Email](https://img.shields.io/badge/Email-vladimir.kozulin.18%40yandex.ru-red?style=for-the-badge&)](mailto:vladimir.kozulin.18@yandex.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-%40vakover-blue?style=for-the-badge&logo=telegram)](https://t.me/vakover)
-[![VK](https://img.shields.io/badge/VK-%40overlord16-9cf?style=for-the-badge&logo=vk)](https://vk.com/overlord16)
-
 
